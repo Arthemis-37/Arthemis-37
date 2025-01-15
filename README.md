@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arthemis
+# 📣 Hey, I'm Arthemis
 
 Je suis une développeur passionnée qui aime approfondir ses connaissances en **développement logiciel et web**.
 
@@ -7,7 +7,7 @@ Je suis une développeur passionnée qui aime approfondir ses connaissances en *
 - ⚙️ I am currently working on projects for school
 - 🧠👨‍💻 I love deepening my knowledge and discovering new things
 
-## 🛠️ Langages et Outils
+## 🌐 Langages et Outils
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
