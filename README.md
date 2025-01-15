@@ -13,3 +13,5 @@ Je suis une développeur passionnée qui aime approfondir ses connaissances en *
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JSON](https://github.com/badges/shields/raw/master/package.json).
+![Go](https://img.shields.io/github/go-mod/go-version/:user/:repo).
